@@ -11,5 +11,6 @@
 - CSS
 - JavaScript
 
-## Author
-Monu Kumawat
+## Developer
+Monu Kumawat  
+B.Tech ECE | Frontend Projects
